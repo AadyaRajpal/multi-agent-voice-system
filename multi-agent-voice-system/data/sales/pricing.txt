@@ -1,0 +1,27 @@
+Product Pricing and Plans
+
+Our product is available in three tiers designed to meet different business needs:
+
+Basic Plan - $49/month
+The Basic plan is perfect for small teams and individual users. It includes all core features needed to get started: project management tools, basic reporting, up to 5 team members, 10GB storage, and email support during business hours. This plan is billed monthly with no long-term commitment required.
+
+Pro Plan - $99/month
+Our most popular plan, the Pro tier, is designed for growing businesses. It includes everything in Basic plus: unlimited team members, 100GB storage, priority support with 2-hour response time, advanced analytics and custom reports, API access for integrations, and custom branding options. Annual billing is available with a 20% discount (equivalent to 2 months free).
+
+Enterprise Plan - Custom Pricing
+For large organizations with specific needs, our Enterprise plan offers: unlimited storage, dedicated account manager, 24/7 phone support, custom integrations and workflows, SSO and advanced security features, SLA guarantees, and on-premise deployment options. Contact our sales team for a customized quote based on your requirements.
+
+Free Trial
+All plans come with a 14-day free trial. No credit card required to start. You can cancel at any time during the trial period.
+
+Payment Methods
+We accept all major credit cards (Visa, Mastercard, American Express), PayPal, and wire transfers for Enterprise customers. All payments are processed securely through Stripe.
+
+Discounts and Promotions
+- Annual billing: Save 20% (2 months free)
+- Non-profit organizations: 30% discount on all plans
+- Educational institutions: 50% discount
+- Startups (less than 2 years old): 40% discount for first year
+
+Money-Back Guarantee
+We offer a 30-day money-back guarantee on all paid plans. If you're not satisfied, we'll refund your payment in full, no questions asked.
